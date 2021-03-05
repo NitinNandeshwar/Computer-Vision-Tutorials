@@ -1,7 +1,7 @@
 # Computer-Vision-Tutorials using OpenCV in Python
 
 
-## (1) Tutorial1 : Reading,writing and displaying images
+### (1) [Tutorial1 : Reading,writing and displaying images](https://github.com/NitinNandeshwar/Computer-Vision-Tutorials/blob/main/Tutorial1.ipynb)
 
 ## (2) Tutorial2 : Faces and Eye detection from Images using HAAR Cascade Classifier
 
