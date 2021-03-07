@@ -26,6 +26,7 @@ Fig: Output of Pedestrian detection from Video
 ![Figure 4](Images/Tutorial5_input.PNG)
 
 Fig: Input of live webcam
+
 ![Figure 5](Images/Tutorial5_Output.PNG)
 
 Fig: Output of Sketch process of ive webcam
